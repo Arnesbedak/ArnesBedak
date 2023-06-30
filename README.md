@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **Excel spreadsheets**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/arnes-bedak-184a2024/](https://www.linkedin.com/in/arnes-bedak-184a2024/)
-
 - 💬 Ask me about **problem-solving skills**
 
 - 📫 How to reach me **arnes.bedak@gmail.com**
